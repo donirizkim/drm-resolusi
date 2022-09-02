@@ -1,0 +1,4 @@
+Drm Resolusi
+- Konsisten belajar bahasa pemrogramman setiap hari
+- Bahasa yang dipelajari back-end (golang, php), data analyst (python), dan server (mysql)
+- belajar data visual juga hehe
